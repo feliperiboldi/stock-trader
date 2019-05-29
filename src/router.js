@@ -11,7 +11,7 @@ export default new Router({
     mode: 'history',
     routes: [
         { path: '/', component: Home},
-        { path: '/portfolio', component: Portfolio},
-        { path: '/Stocks', component: Stocks}
+        { path: '/portfolio', component: Portfolio },
+        { path: '/Stocks', component: Stocks },
     ]
 })
